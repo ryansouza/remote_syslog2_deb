@@ -1,0 +1,5 @@
+remote-syslog (0.13.v20140724-1) trusty; urgency=low
+
+  * Initial release.
+
+ -- Ryan Souza <rydsouza@gmail.com>  Mon, 12 Jan 2014 22:42:00 -0800

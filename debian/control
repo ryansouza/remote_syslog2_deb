@@ -1,0 +1,9 @@
+Source: remote-syslog
+Section: dunno
+Priority: optional
+Maintainer: Ryan Souza <rydsouza@gmail.com>
+Build-Depends: debhelper (>= 9)
+
+Package: remote-syslog
+Architecture: all
+Description: WIP
